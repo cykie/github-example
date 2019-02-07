@@ -2,3 +2,16 @@ Data Set:
 I will be using purely Foursquare data. The city will be Virginia, USA.
 The category will focusing more on veterarian and ratings.
 
+Step 1:
+Retrieve the data from foursquare and process to fit it into the data frame.
+
+Step 2:
+Explore the dataset with neighborhood, the veterarian, and its respective ratings.
+
+
+Step 3:
+Get the whole list of veterarian and neighboorhood, and by applying k-means to get them clustered.
+
+
+Step 4:
+Visualize the clustered data, and choose a neighborhood with better veterarian services.
